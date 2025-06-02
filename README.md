@@ -2,7 +2,7 @@
 ### Name : AKASH G
 ### REG NO.: 212224100004
 
-### EXP 1 : Study-of-basic-gates
+### EXP 1 : Study of basic gates
 
 **AIM:** 
 
